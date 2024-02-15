@@ -2,10 +2,7 @@ openapi: 3.0.0
 info:
   title: Game Score Tracking API
   version: 0.0.1
-  description: The design spec for an unimplemented game score tracking API. This API allows users to register, add friends, add games, submit scores, and view high scores. The API is designed to be used by a game client to track user scores and high scores for video games.
-
-servers:
-  - url: 'https://api.gamescoretracker.com/v1'
+  description: Ths is the design spec for an unimplemented game score tracking API. This API allows users to register, add friends, add games, submit scores, and view high scores. The API is designed to be used by a game client to track user scores and high scores for video games.
 
 paths:
   /users:
