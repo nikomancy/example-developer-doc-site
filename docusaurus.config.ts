@@ -86,29 +86,25 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Portfolio',
+          title: 'Content',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Portfolio',
               to: '/docs/intro',
+            },
+            {
+              label: 'API Reference',
+              to: '/api-reference',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Social',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
+              label: 'Linkedin',
+              href: 'https://www.linkedin.com/in/niko-berry/',
+            }
           ],
         },
         {
