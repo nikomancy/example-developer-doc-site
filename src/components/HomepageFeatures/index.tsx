@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Fast Time to Market',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/dev-focus.svg').default,
     description: (
       <>
         What you see here was built in a few hours. Let's get your developer portal up and running quickly so we can focus on building the references, tutorials, and guides that your integrators need.
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Integrated API Reference',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/online-reading.svg').default,
     description: (
       <>
         A good REST API is a must for any modern developer portal. This portal integrates a stylish and powerful API Reference that was not part of the original site template.
