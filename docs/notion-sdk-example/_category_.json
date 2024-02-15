@@ -1,8 +1,8 @@
 {
-  "label": "REST API Reference",
+  "label": "Javascript SDK Generated docs example",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "An example of REST API reference documentation"
+    "description": "An example of Javascript SDK API reference documentation."
   }
 }
