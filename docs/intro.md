@@ -1,47 +1,43 @@
 ---
+title: Portfolio
 sidebar_position: 1
 ---
+## Product Manager of Developer Portals
+I've been the product manager of the developer portals for the companies Stream inc and Elavon. During my tenure, I worked alongside designers, developers, and technical writers to create a developer experience that maximized the value of the company's APIs.
 
-# Tutorial Intro
+### Stream Developer Portal
+![Alt text](stream-developer-portal.png)
 
-Let's discover **Docusaurus in less than 5 minutes**.
+[See the Stream Developer Portal](https://getstream.io/chat/docs/)
 
-## Getting Started
+### Elavon Developer Portal
+![Alt text](elavon-developer-portal.png)
 
-Get started by **creating a new site**.
+[See the Elavon Developer Portal](https://developer.elavon.com/)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Docs as Tests
+I'm a contributor to the emerging Docs as Tests practice and make tutorial and blog contributions to the [Docs as Tests website](https://www.docsastests.com/)
 
-### What you'll need
+### How to test an API with Doc Detective
+![Alt text](validateanapi.png)
+I wrote a tutorial for Docs as Tests on how to use Doc Detective to test an API. 
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+[Read the tutorial](https://www.docsastests.com/validate-api-with-doc-detective)
 
-## Generate a new site
+### Docs as Tests vs Docs as Code
+![Alt text](docs-as-tests-docs-as-code.png)
+An article discussing how Docs as Tests relates to Docs as Code and where both fit into the broader Doc Ops landscape. 
 
-Generate a new Docusaurus site using the **classic template**.
+[Read the article](https://www.docsastests.com/docs-as-tests-vs-docs-as-code)
 
-The classic template will automatically be added to your project after you run the command:
+## Recent Solo Work
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+### Game score API
+As part of school work, I had to put together an API that could track the scores players got in web games. I took a design first approach and wrote the API documentation before writing the code. You can read the Open API reference docs under the API tab of this site.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+[Read the API reference](/api-reference)
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+### Simplest API Ever
+As part of recent computer science classwork, I put together the absolute simplest possible API using express and made a tutorial of the process.
 
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+[Read the tutorial](/simplest-api)
