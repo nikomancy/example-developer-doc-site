@@ -45,4 +45,4 @@ As part of school work, I had to put together an API that could track the scores
 ### Simplest API Ever
 As part of recent computer science classwork, I put together the absolute simplest possible API using express and made a tutorial of the process.
 
-[Read the tutorial](/doc/simplest-api)
+[Read the tutorial](/docs/simplest-api)
