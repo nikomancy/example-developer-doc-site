@@ -6,12 +6,17 @@ sidebar_position: 1
 I've been the product manager of the developer portals for the companies Stream inc and Elavon. During my tenure, I worked alongside designers, developers, and technical writers to create a developer experience that maximized the value of the company's APIs.
 
 ### Stream Developer Portal
+
 ![Alt text](stream-developer-portal.png)
+
+I spent a year and a half as the product manager of the Stream Developer Portal. I worked with the team to create a developer experience that made it easy for developers to get started with Stream's chat and activity feed APIs.
 
 [See the Stream Developer Portal](https://getstream.io/chat/docs/)
 
 ### Elavon Developer Portal
 ![Alt text](elavon-developer-portal.png)
+
+I spent three years as a technical writer and product manager of the Elavon Developer Portal. I worked with the team to move Elavon away from a legacy closed-documentation approach to a modern public developer portal.
 
 [See the Elavon Developer Portal](https://developer.elavon.com/)
 
@@ -20,13 +25,13 @@ I'm a contributor to the emerging Docs as Tests practice and make tutorial and b
 
 ### How to test an API with Doc Detective
 ![Alt text](validateanapi.png)
-I wrote a tutorial for Docs as Tests on how to use Doc Detective to test an API. 
+My recent tutorial work includes guides on how to apply Docs as Tests to API products. In this tutorial, I show the basics of setting up Doc Detective to validate an API.
 
 [Read the tutorial](https://www.docsastests.com/validate-api-with-doc-detective)
 
 ### Docs as Tests vs Docs as Code
 ![Alt text](docs-as-tests-docs-as-code.png)
-An article discussing how Docs as Tests relates to Docs as Code and where both fit into the broader Doc Ops landscape. 
+In addition to writing tutorials for Docs as Tests, I also make contributions to the field of practice around Doc Ops. This article discussing how Docs as Tests relates to Docs as Code and where both fit into the broader Doc Ops landscape is one example. 
 
 [Read the article](https://www.docsastests.com/docs-as-tests-vs-docs-as-code)
 
