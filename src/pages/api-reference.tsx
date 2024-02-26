@@ -9,7 +9,7 @@ function ApiReference() {
       description='API Reference for the Game Score API.'
     >
       <RedocStandalone
-        specUrl="../game-score-api.yaml"
+        specUrl="/example-developer-doc-site/game-score-api.yaml"
         options={{
           nativeScrollbars: true,
           theme: { colors: { primary: { main: '#dd5522' } } },
