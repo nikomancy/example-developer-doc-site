@@ -10,29 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Fast Time to Market',
+    title: 'From Technical to Tangible',
     Svg: require('@site/static/img/dev-focus.svg').default,
     description: (
       <>
-        What you see here was built in a few hours. Let's get your developer portal up and running quickly so we can focus on building the references, tutorials, and guides that your integrators need.
+         I turn complex API concepts into documentation that gives developers the knowledge and driection they need, to get value from your developer products."
       </>
     ),
   },
   {
-    title: 'Integrated API Reference',
+    title: 'Streategy for your DevEx Journey',
     Svg: require('@site/static/img/online-reading.svg').default,
     description: (
       <>
-        A good REST API is a must for any modern developer portal. This portal integrates a stylish and powerful API Reference that was not part of the original site template.
+        Good developer experience is a complex mixture of technical, business, and human factors. I help you understand and improve your developer experience by providing holisic undestanding and actionable insights.
       </>
     ),
   },
   {
-    title: 'Powered by Open Source',
+    title: 'Your All-in-One Developer Portal Specialist',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        This portal uses popular, well maintained libraries and composable Docs as Code processes to keep development effort low, avoid vendor lock in, and provide a great developer experience.
+        Whether you need a high level strategy, a detailed review of your current developer portal, code updates to your portal, or somebody to write the docs, I can help you.
       </>
     ),
   },

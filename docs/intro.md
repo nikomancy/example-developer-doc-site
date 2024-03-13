@@ -2,6 +2,11 @@
 title: Portfolio
 sidebar_position: 1
 ---
+## Who am I?
+My name is Niko and the best title I've found for what I do is Developer Experience specialist. I've been a technical writer, product manager, and developer focused on creating great developer experiences for the last decade. I've worked with companies ranging from Fortune 100 sized giants down to teams of 20 people and helped them make the tools, content, and processes that let them unlock the value that their products can bring to developers.
+
+The rest of this page has some examples of the publicly available work that I've done.
+
 ## Product Manager of Developer Portals
 I've been the product manager of the developer portals for the companies Stream inc and Elavon. During my tenure, I worked alongside designers, developers, and technical writers to create a developer experience that maximized the value of the company's APIs.
 
@@ -20,7 +25,7 @@ I spent three years as a technical writer and product manager of the Elavon Deve
 
 [See the Elavon Developer Portal](https://developer.elavon.com/)
 
-## Docs as Tests
+## Docs as Tests Contributor
 I'm a contributor to the emerging Docs as Tests practice and make tutorial and blog contributions to the [Docs as Tests website](https://www.docsastests.com/)
 
 ### How to test an API with Doc Detective
