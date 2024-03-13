@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'A Great Developer Experience Starts Here!',
-  tagline: 'A quick look at the developer portal we can build.',
+  title: 'Putting the Developer Experience Puzzle Together!',
+  tagline: 'Let\'s build a great developer experience!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
