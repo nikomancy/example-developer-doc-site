@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'From Technical to Tangible',
-    Svg: require('@site/static/img/dev-focus.svg').default,
+    Svg: require('@site/static/img/undraw_absorbed_in_re_ymd6.svg').default,
     description: (
       <>
          I turn complex API concepts into documentation that gives developers the knowledge and driection they need, to get value from your developer products."
